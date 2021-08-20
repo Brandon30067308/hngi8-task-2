@@ -133,8 +133,8 @@ ul.container .sub-heading::before {
   position: absolute;
   top: 8.5px;
   left: -25px;
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   background-color: #003f86;
 }
